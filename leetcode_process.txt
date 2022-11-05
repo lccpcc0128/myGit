@@ -1,0 +1,4 @@
+difficulty	number	note
+----------------------------------------------------
+easy		2423	1st time pass
+easy		1909	1st time pass. Need to practice O(n) solution
