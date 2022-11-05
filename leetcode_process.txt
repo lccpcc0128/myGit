@@ -2,3 +2,5 @@ difficulty	number	note
 ----------------------------------------------------
 easy		2423	1st time pass
 easy		1909	1st time pass. Need to practice O(n) solution
+easy		859	1st time pass. 98.55%, 76.33%
+easy		2047	1st time pass. 51.61%, 90.32%
