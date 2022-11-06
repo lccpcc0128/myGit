@@ -4,3 +4,5 @@ easy		2423	1st time pass
 easy		1909	1st time pass. Need to practice O(n) solution
 easy		859	1st time pass. 98.55%, 76.33%
 easy		2047	1st time pass. 51.61%, 90.32%
+easy		914	1st time pass. 05.32%, 31.91% (min common factor algorithm)
+easy		414	1st time pass. 05.70%, 14.37%
