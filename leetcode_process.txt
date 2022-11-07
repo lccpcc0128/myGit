@@ -6,3 +6,4 @@ easy		859	1st time pass. 98.55%, 76.33%
 easy		2047	1st time pass. 51.61%, 90.32%
 easy		914	1st time pass. 05.32%, 31.91% (min common factor algorithm)
 easy		414	1st time pass. 05.70%, 14.37%
+easy		605	1st time pass. 36.55%, 49.88%
