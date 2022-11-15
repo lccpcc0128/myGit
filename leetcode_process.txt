@@ -9,3 +9,4 @@ easy		414	1st time pass. 05.70%, 14.37%
 easy		605	1st time pass. 36.55%, 49.88%
 easy		941	1st time pass. 92.45%, 08.98%
 easy		925	1st time pass. 19.26%, 39.26%
+easy		168	1st time pass. 97.76%, 42.79%
