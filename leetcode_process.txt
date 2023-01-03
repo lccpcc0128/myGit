@@ -1,6 +1,14 @@
 difficulty	number	note
 ----------------------------------------------------
-easy		2423	1st time pass
+medium		2	1st time pass. 60.9%, 19.94%
+medium		3	1st time pass.  5.1%, 10.28%
+
+
+
+
+
+----------------------------------------------------
+easy		2423	1st time pass.
 easy		1909	1st time pass. Need to practice O(n) solution
 easy		859	1st time pass. 98.55%, 76.33%
 easy		2047	1st time pass. 51.61%, 90.32%
@@ -15,4 +23,10 @@ easy		1346	1st time pass. 98.93%, 99.79%
 easy		69	1st time pass. 27.76%, 84.86%
 easy		1037	1st time pass. 94.74%, 10.53%
 easy		434	1st time pass. 28.89%, 29.26%
-easy 		507	1st time limit exceed
+easy 		507	1st time limit exceed,
+			2nd time pass. 34.57%, 26.54%
+easy		680	1st time pass. 15.76%, 33.33%
+easy		1668	1st time pass. 55.93%, 30.51%
+			2nd time pass. 75.86%, 56.90%
+easy		1784	1st time pass. 35.56%, 88.89%
+easy		290	1st time pass. 61.60%, 05.30%
